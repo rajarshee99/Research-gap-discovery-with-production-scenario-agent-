@@ -4,9 +4,18 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-FF6B6B?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-1C4CFF?style=for-the-badge)](https://langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=for-the-badge)](https://www.pinecone.io/)
 [![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=for-the-badge)](https://groq.com/)
+[![Tavily](https://img.shields.io/badge/Tavily-Search-00D8FF?style=for-the-badge)](https://tavily.com/)
+[![Jina AI](https://img.shields.io/badge/Jina_AI-Extraction-5D3FD3?style=for-the-badge)](https://jina.ai/)
+[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF_Parsing-FF5733?style=for-the-badge)](https://pymupdf.readthedocs.io/)
+[![pymupdf4llm](https://img.shields.io/badge/pymupdf4llm-LLM_Optimized-FF5733?style=for-the-badge)](https://github.com/py-pdfium/pymupdf4llm)
+[![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-777BB4?style=for-the-badge)](https://www.sbert.net/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge)](https://huggingface.co/)
+[![Mermaid](https://img.shields.io/badge/Mermaid-Visualization-FF5733?style=for-the-badge)](https://mermaid.js.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **A sophisticated multi-agent RAG system that ingests research papers, indexes them semantically, and runs a LangGraph-orchestrated Q&A pipeline to surface cross-paper research gaps — enriched with live web search for industry alignment when deeper reasoning is needed.**
