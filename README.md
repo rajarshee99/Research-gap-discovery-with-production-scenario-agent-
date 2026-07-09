@@ -38,6 +38,30 @@ The system is organized as two pipelines and a shared state object, modeled as a
 
 ---
 
+## 📸 Project Screenshots
+
+### System Interface
+The main Streamlit interface provides an intuitive environment for uploading research papers and interacting with the intelligent Q&A system.
+
+![Main Interface](proof/Slide1.PNG)
+
+### PDF Ingestion Process
+Users can drag and drop research papers which are automatically processed through the semantic chunking pipeline.
+
+![PDF Ingestion](proof/Slide2.PNG)
+
+### Query Processing & Results
+The system processes natural language queries using the LangGraph-orchestrated pipeline, retrieving relevant information from ingested papers and live web search when needed.
+
+![Query Processing](proof/Slide3.PNG)
+
+### Interactive Mindmap Visualization
+For complex queries requiring deep reasoning, the system generates interactive mindmaps that visualize the relationships between concepts and research findings.
+
+![Mindmap Visualization](proof/Slide4.PNG)
+
+---
+
 ## 🏗️ Architecture
 
 The system architecture is visualized as an interactive canvas in the Obsidian vault, showing the complete data flow and component relationships. The architecture consists of six main layers:

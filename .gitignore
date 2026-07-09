@@ -18,3 +18,7 @@ api_keys.txt
 *.key
 *.pem
 credentials.json
+
+# PowerPoint temporary files
+~$*.pptx
+*.pptx
