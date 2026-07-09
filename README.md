@@ -1,7 +1,19 @@
-<<<<<<< HEAD
 # 📊 Research Gap Discovery and Industry Alignment Agent
 
-A sophisticated multi-agent RAG system that ingests research papers, indexes them semantically, and runs a **LangGraph**-orchestrated Q&A pipeline to surface cross-paper research gaps — enriched with live web search for industry alignment when deeper reasoning is needed.
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-FF6B6B?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=for-the-badge)](https://www.pinecone.io/)
+[![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=for-the-badge)](https://groq.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+**A sophisticated multi-agent RAG system that ingests research papers, indexes them semantically, and runs a LangGraph-orchestrated Q&A pipeline to surface cross-paper research gaps — enriched with live web search for industry alignment when deeper reasoning is needed.**
+
+[Overview](#-overview) · [Architecture](#-architecture) · [Quick Start](#-getting-started) · [Tech Stack](#-tech-stack) · [Project Structure](#-project-structure) · [Architecture Exploration](#-exploring-the-architecture)
+
+</div>
 
 ---
 
@@ -606,9 +618,19 @@ For questions, issues, or contributions:
 
 ---
 
+<div align="center">
+
+**Built by [Rajarshee Chakraborty](https://www.linkedin.com/in/rajarshee-chakraborty99/)**
+&nbsp;·&nbsp;
+[GitHub](https://github.com/rajarshee99)
+&nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/rajarshee-chakraborty99/)
+
+*Research Gap Discovery · AI Engineering Portfolio*
+
+</div>
+
+---
+
 **Last Updated:** July 2026  
 **Version:** 0.1.0
-=======
-# Research-gap-discovery-with-production-scenario-agent-
-The Research Gap Discovery and Industry Alignment Agent is a sophisticated multi-agent RAG system designed to bridge the gap between academic research and industry needs. 
->>>>>>> 5a0c2ee0401c6444244bbb09160fa93e4966c6fb
