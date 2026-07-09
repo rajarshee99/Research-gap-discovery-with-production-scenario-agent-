@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+data/uploads/*
+data/faiss/*
+data/reports/*
+!data/uploads/.gitkeep
+!data/faiss/.gitkeep
+!data/reports/.gitkeep
+
+# Security - API keys and credentials
+api_keys.txt
+*.env
+.env.local
+.env.*.local
+*.key
+*.pem
+credentials.json

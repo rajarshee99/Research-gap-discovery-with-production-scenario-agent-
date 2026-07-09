@@ -1,0 +1,9 @@
+Framework: Langgraph
+UI:Streamlit
+LLM: Groq-GPT OSS (oss20b & oss120b)
+pdf parser: pymupdf4llm (enhanced LLM-optimized parsing with PyMuPDF fallback)
+chunking:Semantic chunking
+embedding: baai bge small (sentence-transformers)
+vector: Pinecone
+Web Search: Tavily (for oss120b)
+Content Extraction: Jina AI (for oss120b)

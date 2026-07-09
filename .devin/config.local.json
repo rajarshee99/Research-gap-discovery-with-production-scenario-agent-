@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(python)",
+      "Exec(ls)",
+      "Exec(dir)",
+      "Exec(cd)",
+      "Exec(git status)",
+      "Exec(streamlit run)",
+      "Exec(Get-ChildItem)"
+    ]
+  }
+}

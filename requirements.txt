@@ -1,0 +1,10 @@
+streamlit
+streamlit-mermaid
+PyMuPDF
+pymupdf4llm
+sentence-transformers
+torch
+langchain-experimental
+langchain-huggingface
+requests
+pinecone

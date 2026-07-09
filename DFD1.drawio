@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="BL-FSfLkkKL3ChC7chuR">
+    <mxGraphModel dx="872" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K2b-KRplxcshb7UbVHMj-2" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="K2b-KRplxcshb7UbVHMj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Upload a research paper" vertex="1">
+          <mxGeometry height="70" width="130" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-5" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="PDF parser" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-6" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-20" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="K2b-KRplxcshb7UbVHMj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Paper analysis with reasoning" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value=" " vertex="1">
+          <mxGeometry height="70" width="260" x="510" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;If user wants to know the&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;research gap with industry&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="430" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-11" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="K2b-KRplxcshb7UbVHMj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-14" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="K2b-KRplxcshb7UbVHMj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="LLM" vertex="1">
+          <mxGeometry height="50" width="140" x="570" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-16" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="K2b-KRplxcshb7UbVHMj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Domain Detection" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-17" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Webcrawler" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Report Generation" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-23" edge="1" parent="1" source="K2b-KRplxcshb7UbVHMj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.557;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="K2b-KRplxcshb7UbVHMj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Further QUERY" vertex="1">
+          <mxGeometry height="30" width="130" x="430" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(HITL)" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="K2b-KRplxcshb7UbVHMj-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Fetched Data" vertex="1">
+          <mxGeometry height="30" width="70" x="260" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
